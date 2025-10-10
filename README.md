@@ -233,6 +233,14 @@ AR/VR 기술이 렌즈에 내장되어 스마트폰을 대체.
 건물 옥상 간 이동(UAM) 일상화.
 
 지상 교통 체증 해소 및 이동 혁신.
+
+<img width="1536" height="1024" alt="KakaoTalk_20251010_135733893" src="https://github.com/user-attachments/assets/fc200739-40f1-4f09-b611-6de0eaeeb790" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_it1crrit1crrit1c" src="https://github.com/user-attachments/assets/0d24c221-e594-48a0-b53b-f1c7585701ed" />
+<img width="1024" height="1024" alt="IMG_2305" src="https://github.com/user-attachments/assets/8c6f8520-676b-4ca9-a510-281dff89d32d" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_jgdq2pjgdq2pjgdq" src="https://github.com/user-attachments/assets/e1325c3f-51da-44f7-baf1-825ddec86115" />
+
+
+
 - 현장 탐방 ✔️  
 
 - 멘토링 ✔️  
