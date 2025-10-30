@@ -240,6 +240,12 @@ AR/VR 기술이 렌즈에 내장되어 스마트폰을 대체.
 <img width="1024" height="1024" alt="Gemini_Generated_Image_jgdq2pjgdq2pjgdq" src="https://github.com/user-attachments/assets/e1325c3f-51da-44f7-baf1-825ddec86115" />
 
 
+## 📌 미래의 우리 모습
+
+<img width="2639" height="3736" alt="팀20_발표자료_1" src="https://github.com/user-attachments/assets/fad9e696-9b6c-4453-b448-a76400eaa113" />
+
+
+
 
 - 현장 탐방 ✔️  
 
