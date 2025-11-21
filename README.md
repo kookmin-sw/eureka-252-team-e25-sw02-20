@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/meKNgBF9)
 # Welcome to 20팀
 
+<img width="2639" height="3736" alt="팀20_발표자료_1" src="https://github.com/user-attachments/assets/fad9e696-9b6c-4453-b448-a76400eaa113" />
+
 ## 1️⃣ 팀원 소개
 | **이름** | **전공** | **관심사** |
 | --- | --- | --- |
