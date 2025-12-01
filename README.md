@@ -300,7 +300,8 @@ A. 1학년이 가장 중요합니다.
 
 
  ## 지도교수님과의 면담[김장호 교수님](11/28)
-![김장호 교수님과의 대화](<img width="902" height="581" alt="image" src="https://github.com/user-attachments/assets/d4006c21-d3c8-4f2d-8adc-7a0800e17f4e" />)
+<img width="451" height="291" alt="KakaoTalk_20251201_174136031" src="https://github.com/user-attachments/assets/cb9bdefc-6378-4be5-8183-7e5bcfe3f74b" />
+ps://github.com/user-attachments/assets/d4006c21-d3c8-4f2d-8adc-7a0800e17f4e" />)
 
 **Q. 멘토님과의 미팅에서 영어, 리눅스, 연구 분야의 중요성을 들었습니다. 교수님께서는 대학 생활 중 어떤 것을 추가로 준비하면 좋다고 생각하시나요?**
 
